@@ -1,17 +1,26 @@
 {
-  "name": "loginwithsession",
+  "name": "ecom",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "LoginSignup Using Session",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suhit Gupta",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
     "express": "^4.17.2",
     "express-session": "^1.17.2",
-    "session": "^0.1.0"
-  }
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhit1/LoginSignup_Using_Session.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suhit1/LoginSignup_Using_Session/issues"
+  },
+  "homepage": "https://github.com/suhit1/LoginSignup_Using_Session#readme"
 }
